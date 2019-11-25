@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DaveIstanto/test_react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/DaveIstanto/test_react/static/js/main.f28d77a2.chunk.js",
+    "main.js.map": "/DaveIstanto/test_react/static/js/main.f28d77a2.chunk.js.map",
+    "runtime-main.js": "/DaveIstanto/test_react/static/js/runtime-main.fd8ac748.js",
+    "runtime-main.js.map": "/DaveIstanto/test_react/static/js/runtime-main.fd8ac748.js.map",
+    "static/js/2.36c7cce4.chunk.js": "/DaveIstanto/test_react/static/js/2.36c7cce4.chunk.js",
+    "static/js/2.36c7cce4.chunk.js.map": "/DaveIstanto/test_react/static/js/2.36c7cce4.chunk.js.map",
+    "index.html": "/DaveIstanto/test_react/index.html",
+    "precache-manifest.0633f7cec49b9ab9ba0f40f1a24f8c36.js": "/DaveIstanto/test_react/precache-manifest.0633f7cec49b9ab9ba0f40f1a24f8c36.js",
+    "service-worker.js": "/DaveIstanto/test_react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/DaveIstanto/test_react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/DaveIstanto/test_react/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd8ac748.js",
+    "static/js/2.36c7cce4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f28d77a2.chunk.js"
+  ]
+}
